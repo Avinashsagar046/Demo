@@ -1,4 +1,4 @@
 # Demo
 First repository
 <br>
-Author - Avinash Sagar
+Author - Avinash Sagar AIT
